@@ -30,3 +30,10 @@ img {
 .chocolate{
     color: darkgreen;
 }
+.test-box {
+    background-color: lightcoral;
+    padding: 20px;
+    border: 20px darkblue;
+    margin: 20px;
+}
+
